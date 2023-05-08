@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/17437349-7544-43e9-ac82-6c26a9c5b2fc/resourceGroups/mantyrecipe_group/providers/Microsoft.Web/sites/mantyrecipe",
+    "appService.deploySubpath": "."
+}
